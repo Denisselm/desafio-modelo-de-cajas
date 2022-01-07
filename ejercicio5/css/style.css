@@ -1,0 +1,16 @@
+.sheet {
+    position: fixed;
+    left: 400px;
+    width: 500px;
+    height: 700px;
+    z-index: -1;
+}
+
+.ribbon {
+    position: absolute;
+    left: 450px;
+    width: 850px;
+    height: 650px;
+    top: 20px;
+    z-index: 1;
+}

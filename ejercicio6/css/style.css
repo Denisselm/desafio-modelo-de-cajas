@@ -1,0 +1,9 @@
+.cel {
+    position: absolute;
+}
+
+.ribbon {
+    position: relative;
+    top: 250px;
+    left: 250px;
+}

@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    width: 1000px;
+}
+
+.bandera {
+    border: 1 px solid grey;
+    margin: 25px auto;
+    float: right;
+}
+
+.españa {
+    box-sizing: border-box;
+}
+
+.rojo {
+    width: 400px;
+    height: 60px;
+    background-color: red;
+}
+
+.amarillo {
+    width: 400px;
+    height: 90px;
+    background-color: yellow;
+}
+
+.dinamarca {
+    width: 400px;
+    height: 190px;
+    background-color: white;
+    box-sizing: border-box;
+}
+
+.cuadrado {
+    width: 110px;
+    height: 95px;
+    background-color: red;
+    display: inline-block;
+    top: 0;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding-right: 15px;
+}
+
+.rectangulo {
+    width: 250px;
+    height: 95px;
+    margin-bottom: 20px;
+    background-color: red;
+    display: inline-block;
+    top: 0;
+}
+
+.emiratosarabes {
+    width: 400px;
+    height: 210px;
+    background-color: red;
+    box-sizing: border-box;
+}
+
+.verde {
+    width: 300px;
+    height: 70px;
+    background-color: seagreen;
+    top: 0;
+    margin-left: 100px;
+}
+
+.blanco {
+    width: 300px;
+    height: 70px;
+    background-color: white;
+    top: 0;
+    margin-left: 100px;
+}
+
+.negro {
+    width: 300px;
+    height: 70px;
+    background-color: black;
+    top: 0;
+    margin-left: 100px;
+}
+
+.japon {
+    width: 400px;
+    height: 210px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.circulo {
+    width: 90px;
+    height: 90px;
+    background-color: red;
+    border-radius: 50%;
+    margin-left: 150px;
+    margin-top: 70px;
+}
